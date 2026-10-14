@@ -33,3 +33,7 @@
 .DS_Store
 Thumbs.db
 YugiriVillage/screenshot.png
+.web-build-work/
+output/
+!web/Build/
+!web/Build/**
